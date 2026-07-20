@@ -20,4 +20,6 @@
 
 #The primary objective of this project is to conduct Adversary Emulation against Windows endpoints and engineer robust detection queries in Splunk Processing Language mapped directly to the MITRE ATT&CK Framework 
 
+#Lab Setup 
+
 
