@@ -78,6 +78,9 @@
 
 <img width="992" height="711" alt="{FA6BE8B4-1934-46B3-9923-7411765831A8}" src="https://github.com/user-attachments/assets/2e7304ee-b159-40f4-b151-fa2078dc910d" />
 
+<img width="1013" height="726" alt="{88909BEC-F8EF-434C-A513-75093EA072FC}" src="https://github.com/user-attachments/assets/e2afe560-0089-4aa4-9436-bf969f45b73c" />
+
+
 
 
 ## Splunk Receiving Windows Security Logs - Verified successful ingestion of Windows Security logs into Splunk SIEM.
