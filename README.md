@@ -49,5 +49,15 @@
 ## Splunk Receiving Windows Security Logs - Verified successful ingestion of Windows Security logs into Splunk SIEM.
 
 
+## Zeek & Suricata Sensor - Configured Zeek and Suricata to capture network metadata and intrusion detection alerts.
+
+## Splunk Network Telemetry - Network telemetry from Zeek and Suricata indexed into Splunk for centralized investigation.
+
+## Kali Linux Attack Simulation - Hosted malicious payloads from Kali Linux to simulate attacker behavior within the lab.
+
+## Atomic Red Team Execution - Executed Atomic Red Team tests to emulate MITRE ATT&CK techniques and generate realistic attack telemetry.
+
+## Splunk Detecting Atomic Red Team Activity - Investigated Windows process creation events generated during Atomic Red Team simulations.
+
 
 
