@@ -93,6 +93,11 @@
 
 ## Zeek & Suricata Sensor - Configured Zeek and Suricata to capture network metadata and intrusion detection alerts.
 
+<img width="1381" height="814" alt="{7320DFB5-2D10-4ECB-84EE-8F3D3A9C4719}" src="https://github.com/user-attachments/assets/9d0c8678-7a4d-4533-878e-ac00917e40f4" />
+
+<img width="786" height="132" alt="{D8347483-E415-4AB2-8AB0-D5E561090261}" src="https://github.com/user-attachments/assets/3c742bcc-070c-48eb-a63a-55e835f2d729" />
+
+
 ## Splunk Network Telemetry - Network telemetry from Zeek and Suricata indexed into Splunk for centralized investigation.
 
 ## Kali Linux Attack Simulation - Hosted malicious payloads from Kali Linux to simulate attacker behavior within the lab.
