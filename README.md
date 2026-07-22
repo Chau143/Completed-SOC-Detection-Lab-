@@ -21,12 +21,16 @@
 #The primary objective of this project is to conduct Adversary Emulation against Windows endpoints and engineer robust detection queries in Splunk Processing Language mapped directly to the MITRE ATT&CK Framework 
 
 #Lab Setup 
+
+## Installing pfSense Firewall
 <img width="1499" height="889" alt="{BC62E030-72F0-4222-A147-4612AA4121C0}" src="https://github.com/user-attachments/assets/adc0ebce-d37b-4ae5-beed-98472e585537" />
 
 
 <img width="1264" height="719" alt="{26BF22D7-39C8-470E-A01C-D60FFCC64102}" src="https://github.com/user-attachments/assets/8bee853d-90ac-472b-b35c-e7f690e3bb4e" />
 
+
 <img width="995" height="725" alt="{3CEB8419-9C27-4FF9-A795-C23FE44E71EB}" src="https://github.com/user-attachments/assets/faf7cba3-cb9f-4a67-a658-c2cf9e863d21" />
+
 
 <img width="1171" height="825" alt="{CB728335-07C0-4E0A-B804-CB5ECA146B53}" src="https://github.com/user-attachments/assets/9e688dc5-52e7-4cf2-a8c6-c990bba9a273" />
 
