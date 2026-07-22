@@ -41,3 +41,13 @@
 
 
 
+## Windows 10 Joined to Domain - Joined a Windows endpoint to the Active Directory domain to simulate enterprise workstations.
+
+
+## Configuring Windows Audit Policies - Enabled advanced Windows audit policies to generate detailed security telemetry for threat detection.
+
+## Splunk Receiving Windows Security Logs - Verified successful ingestion of Windows Security logs into Splunk SIEM.
+
+
+
+
