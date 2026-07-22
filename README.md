@@ -100,6 +100,11 @@
 
 ## Splunk Network Telemetry - Network telemetry from Zeek and Suricata indexed into Splunk for centralized investigation.
 
+<img width="1006" height="705" alt="{866B7735-D24A-495D-B34E-860F6B6DEDBA}" src="https://github.com/user-attachments/assets/9f643ad0-5f49-483f-bd0c-13f737cc496b" />
+
+<img width="1041" height="732" alt="{6A9E3851-5E34-4638-98CA-E8BC41C104D1}" src="https://github.com/user-attachments/assets/6ac8a30e-edd0-4964-8e1b-03cd9f0d72db" />
+
+
 ## Kali Linux Attack Simulation - Hosted malicious payloads from Kali Linux to simulate attacker behavior within the lab.
 
 ## Atomic Red Team Execution - Executed Atomic Red Team tests to emulate MITRE ATT&CK techniques and generate realistic attack telemetry.
