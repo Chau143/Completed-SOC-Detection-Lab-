@@ -22,7 +22,7 @@
 
 #Lab Setup 
 
-## Installing pfSense Firewall
+## Installing pfSense Firewall - Configure pfSense as the gateway between the Internet and internal SOC lab network
 <img width="1499" height="889" alt="{BC62E030-72F0-4222-A147-4612AA4121C0}" src="https://github.com/user-attachments/assets/adc0ebce-d37b-4ae5-beed-98472e585537" />
 
 
