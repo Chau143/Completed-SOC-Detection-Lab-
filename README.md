@@ -39,6 +39,12 @@
 <img width="1171" height="825" alt="{CB728335-07C0-4E0A-B804-CB5ECA146B53}" src="https://github.com/user-attachments/assets/9e688dc5-52e7-4cf2-a8c6-c990bba9a273" />
 
 
+<img width="1165" height="810" alt="{FB11700A-5194-43F7-B0C8-AF5AC7734D9E}" src="https://github.com/user-attachments/assets/d1c8c7fb-1f83-4d41-a867-73fe90644613" />
+
+<img width="1431" height="883" alt="{8AF8BFBF-87EA-4520-879C-ABE5B03A149E}" src="https://github.com/user-attachments/assets/e7dd8254-5163-4ceb-905b-d5abf4a47edf" />
+
+
+
 
 
 ## Windows 10 Joined to Domain - Joined a Windows endpoint to the Active Directory domain to simulate enterprise workstations.
