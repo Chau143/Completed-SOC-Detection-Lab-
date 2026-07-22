@@ -64,6 +64,18 @@
 
 <img width="897" height="614" alt="{A8DF0B07-189B-496F-8EE7-7C837FCB7879}" src="https://github.com/user-attachments/assets/fe76e058-fa93-4c8a-8bfb-15cd0988b254" />
 
+<img width="895" height="617" alt="{F94D29E8-D4B8-41EB-A477-D514365C3975}" src="https://github.com/user-attachments/assets/6e3faae9-799e-43be-bcc4-729862db934f" />
+
+<img width="898" height="620" alt="{CD9E91D8-C135-409C-B01A-6041E61303B6}" src="https://github.com/user-attachments/assets/20df7f74-5c26-4abb-ab73-19f6e8c7b4f5" />
+
+<img width="892" height="614" alt="{CD555D8C-5E46-484E-88BE-15BC84950382}" src="https://github.com/user-attachments/assets/cb9aa39e-1c93-4990-addf-ea0ac5f6cdc2" />
+
+<img width="898" height="610" alt="{50509F0F-26B4-44DC-9BD7-0ECF2083AFA6}" src="https://github.com/user-attachments/assets/febd7fbe-6ec9-4509-a3b6-36b215e44e76" />
+
+<img width="905" height="644" alt="{B2EBA55E-2484-444B-BACA-207E1DF63595}" src="https://github.com/user-attachments/assets/6fa85402-ef52-4d4e-b80a-7217087223ac" />
+
+
+
 
 ## Splunk Receiving Windows Security Logs - Verified successful ingestion of Windows Security logs into Splunk SIEM.
 
