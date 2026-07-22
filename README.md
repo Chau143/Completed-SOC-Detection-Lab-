@@ -60,6 +60,11 @@
 
 ## Configuring Windows Audit Policies - Enabled advanced Windows audit policies to generate detailed security telemetry for threat detection.
 
+<img width="1160" height="830" alt="{3C87EE28-9213-4CAE-83CF-0200D6E60824}" src="https://github.com/user-attachments/assets/b7974dd7-de23-42ec-90e3-8ba72907c1f8" />
+
+<img width="897" height="614" alt="{A8DF0B07-189B-496F-8EE7-7C837FCB7879}" src="https://github.com/user-attachments/assets/fe76e058-fa93-4c8a-8bfb-15cd0988b254" />
+
+
 ## Splunk Receiving Windows Security Logs - Verified successful ingestion of Windows Security logs into Splunk SIEM.
 
 
