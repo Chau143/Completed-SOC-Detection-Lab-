@@ -85,6 +85,11 @@
 
 ## Splunk Receiving Windows Security Logs - Verified successful ingestion of Windows Security logs into Splunk SIEM.
 
+<img width="1015" height="415" alt="{3D6E39E6-01C0-4D11-A0AC-5B4F68072B86}" src="https://github.com/user-attachments/assets/a33989a0-0979-4935-a090-64208efad5a4" />
+
+<img width="825" height="596" alt="{441B8D4B-604E-4B4E-81D7-F414DD246565}" src="https://github.com/user-attachments/assets/9aed0716-7f8e-4188-9f38-6659c3e35a2c" />
+
+<img width="1019" height="724" alt="{A77B9268-0185-4FB5-A391-8433685A60F4}" src="https://github.com/user-attachments/assets/ebc9ace0-2e55-4532-9af0-d91dd518add8" />
 
 ## Zeek & Suricata Sensor - Configured Zeek and Suricata to capture network metadata and intrusion detection alerts.
 
