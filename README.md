@@ -116,7 +116,19 @@
 
 ## Atomic Red Team Execution - Executed Atomic Red Team tests to emulate MITRE ATT&CK techniques and generate realistic attack telemetry.
 
+<img width="857" height="692" alt="{B7A66477-B69F-4DAB-AB25-B72574A0EE4C}" src="https://github.com/user-attachments/assets/5fd9f9b8-50eb-4beb-b7d1-64d3369e7f8d" />
+
+
 ## Splunk Detecting Atomic Red Team Activity - Investigated Windows process creation events generated during Atomic Red Team simulations.
 
+<img width="1015" height="720" alt="{B2C87581-7E6A-49B5-9FF9-0BDBB0C7A747}" src="https://github.com/user-attachments/assets/c41a99d9-2233-4f2d-a48c-d52a25a999c3" />
+
+<img width="1000" height="716" alt="{6F4F8519-2AF1-4FED-A22F-93A2F02CC9F0}" src="https://github.com/user-attachments/assets/fc6019ea-7c7b-47d0-8db2-181df03fb4b2" />
+
+<img width="1019" height="714" alt="{B7296502-41DF-4BD1-8C07-37B734D60ACC}" src="https://github.com/user-attachments/assets/16ca0200-df98-4b11-9770-0d89048940f7" />
+
+<img width="1021" height="725" alt="{689490C4-B88F-40DD-9E70-807377E48BE6}" src="https://github.com/user-attachments/assets/afb8bead-98a6-4356-9483-51035150a665" />
+
+<img width="1006" height="723" alt="{D24246B5-22E1-45E6-B9F7-7B62EBCF2E8F}" src="https://github.com/user-attachments/assets/4942f5bb-5346-47fe-91ae-57dfcbb2888b" />
 
 
