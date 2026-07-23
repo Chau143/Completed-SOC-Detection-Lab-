@@ -107,6 +107,13 @@
 
 ## Kali Linux Attack Simulation - Hosted malicious payloads from Kali Linux to simulate attacker behavior within the lab.
 
+<img width="632" height="126" alt="{986B319F-073D-4FAF-A045-EB369FF167C8}" src="https://github.com/user-attachments/assets/79ec2aee-476b-4430-bde7-56682144b252" />
+
+## Malware Download Simulation - Simulated malware delivery over HTTP from the attacker machine to the Windows endpoint. 
+
+<img width="1025" height="316" alt="{A16D2C69-5E37-4378-AD6A-D1224199A9C4}" src="https://github.com/user-attachments/assets/c4679a30-3fdc-491d-a4bd-8c00af92f358" />
+
+
 ## Atomic Red Team Execution - Executed Atomic Red Team tests to emulate MITRE ATT&CK techniques and generate realistic attack telemetry.
 
 ## Splunk Detecting Atomic Red Team Activity - Investigated Windows process creation events generated during Atomic Red Team simulations.
